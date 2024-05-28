@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.70ad0c1c.css",
+    "main.js": "/portfolio-website/static/js/main.9c73c806.js",
+    "static/media/Resume_Ashwin.pdf": "/portfolio-website/static/media/Resume_Ashwin.9802d131a5316813d5c4.pdf",
+    "static/media/photo.jpg": "/portfolio-website/static/media/photo.c7bdcf180e70b0e3978a.jpg",
+    "index.html": "/portfolio-website/index.html",
+    "main.70ad0c1c.css.map": "/portfolio-website/static/css/main.70ad0c1c.css.map",
+    "main.9c73c806.js.map": "/portfolio-website/static/js/main.9c73c806.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70ad0c1c.css",
+    "static/js/main.9c73c806.js"
+  ]
+}
